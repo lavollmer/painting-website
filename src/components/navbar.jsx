@@ -2,7 +2,7 @@ import '../App.css'
 
 const navbar = () => {
     return (
-        <div className='flex flex-row space-x-10 p-10 items-stretch content-center'>
+        <div className='flex flex-row space-x-10 p-10 items-stretch content-center bg-black text-white w-100%'>
             <div className='flex flex-column space-x-2 font-sans font-bold'>
                 <h1 className='text-lg'>Homes & Halls By Laura</h1>
             </div>
