@@ -2,11 +2,8 @@ import Navbar from './navbar'
 
 const homepage = () => {
   return (
-    <div>
+    <div className='flex flex-column'>
         <Navbar />
-        <div>
-          <h1>Hello</h1>
-        </div>
     </div>
   )
 }
