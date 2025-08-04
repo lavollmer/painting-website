@@ -4,7 +4,7 @@ import Footer from "./footer"
 
 const homepage = () => {
   return (
-    <div className='flex flex-column w-full h-full'>
+    <div className='flex flex-column'>
       <div>
         <Navbar />
       </div>
