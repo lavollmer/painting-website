@@ -4,7 +4,7 @@ import Footer from "./footer"
 
 const homepage = () => {
   return (
-    <div>
+    <div className='bg-cherry-pink'>
       <Navbar />
       <h1>Custom Watercolor Illustrations</h1>
       <h1>By Laura</h1>
