@@ -4,13 +4,11 @@ import Footer from "./footer"
 
 const homepage = () => {
   return (
-    <div className='flex flex-column'>
-      <div>
-        <Navbar />
-      </div>
-      <div>
-        <Footer />
-      </div>
+    <div>
+      <Navbar />
+      <h1>Custom Watercolor Illustrations</h1>
+      <h1>By Laura</h1>
+      <Footer/>
     </div>
   )
 }
